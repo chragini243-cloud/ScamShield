@@ -34,5 +34,5 @@ python scamshield.py
 - HIGH RISK
 
 ## Disclaimer
-This is a basic rule-based detection system.
+This is a basic rule-based detection system
 It cannot guarantee detection of all scams.
