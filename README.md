@@ -3,7 +3,7 @@
 
 ScamShield is a Python-based project that
 detects potentially suspicious and phishing
-messages using keyword analysis.
+messages using keyword analysis
 
 ## Features
 - Suspicious keyword detection
